@@ -1,1 +1,1 @@
-# StegaVault
+# StegaVault GUI
