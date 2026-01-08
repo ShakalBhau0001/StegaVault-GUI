@@ -1,1 +1,3 @@
-
+customtkinter
+cryptography
+pillow
