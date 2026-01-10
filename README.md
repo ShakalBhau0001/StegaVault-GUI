@@ -180,7 +180,6 @@ Do not use it for protecting high‑value or life‑critical data.
 
 ## 🛣️ Roadmap
 
-- CLI version (planned)
 - Drag‑and‑drop support
 - Large payload progress indicator
 - Linux & macOS packaging
