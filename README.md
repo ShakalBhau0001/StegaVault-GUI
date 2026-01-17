@@ -3,9 +3,7 @@
 ### Unified Encryption & Steganography Toolkit (GUI Edition)
 
 **StegaVault-GUI** is a modern, password-based **encryption and steganography desktop application** built entirely in **Python (3.12.x compatible)** using **CustomTkinter**.
-
 It allows **end users (non-technical)** to securely:
-
 - Encrypt & decrypt files
 - Hide encrypted messages inside images
 - Hide encrypted messages inside audio files
@@ -165,7 +163,7 @@ pillow
 customtkinter
 ```
 
-No hidden or unnecessary dependencies.
+_No hidden or unnecessary dependencies._
 
 ---
 
@@ -189,8 +187,8 @@ Do not use it for protecting high‑value or life‑critical data.
 
 ## 🪪 Author
 
-Developer: **Shakal Bhau**  
-GitHub: **[ShakalBhau0001](https://github.com/ShakalBhau0001)**
+> Developer: **Shakal Bhau**  
+> GitHub: **[ShakalBhau0001](https://github.com/ShakalBhau0001)**
 
 ---
 
