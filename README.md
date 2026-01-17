@@ -80,8 +80,7 @@ Hide encrypted text inside 16‑bit PCM WAV files.
 StegaVault-GUI/
 │
 ├── core/
-│   ├── __init__.py
-│   ├── crypto_utils.py     
+│   ├── __init__.py    
 │   ├── file_crypto.py      
 │   ├── image_stego.py       
 │   └── audio_stego.py       
@@ -137,7 +136,7 @@ Fully tested on:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/ShakalBhau0001/StegaVault.git
+git clone https://github.com/ShakalBhau0001/StegaVault-GUI.git
 cd StegaVault-GUI
 ```
 
