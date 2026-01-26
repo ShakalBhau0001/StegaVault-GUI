@@ -15,6 +15,7 @@ All operations are performed locally with **no network usage**, ensuring full us
 ## 🔄 Also Available as a CLI Tool
 
 Prefer terminal-based workflows or scripting?
+
 👉 **StegaVault-CLI** is the command-line version of this project, designed for developers and power users.
 
 > 🔗 CLI Repository: **[StegaVault-CLI](https://github.com/ShakalBhau0001/StegaVault-CLI)**
