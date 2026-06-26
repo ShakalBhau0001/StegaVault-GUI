@@ -194,6 +194,12 @@ Do not use it for protecting high‑value or life‑critical data.
 
 ---
 
+## 📸 Preview
+
+![Rich CLI Preview](assets/Stega.png)
+
+---
+
 ## 🪪 Author
 
 > Developer: **Shakal Bhau**
