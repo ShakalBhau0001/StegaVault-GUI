@@ -18,7 +18,7 @@ Prefer terminal-based workflows or scripting?
 
 👉 **StegaVault-CLI** is the command-line version of this project, designed for developers and power users.
 
-> 🔗 CLI Repository: **[StegaVault-CLI](https://github.com/ShakalBhau0001/StegaVault-CLI)**
+> **🔗 CLI Repository: [StegaVault-CLI](https://github.com/ShakalBhau0001/StegaVault-CLI)**
 
 ---
 
@@ -89,6 +89,7 @@ Hide encrypted text inside 16‑bit PCM WAV files.
 ```bash
 StegaVault-GUI/
 │
+├── assets/
 ├── core/
 │   ├── __init__.py    
 │   ├── file_crypto.py      
@@ -196,7 +197,42 @@ Do not use it for protecting high‑value or life‑critical data.
 
 ## 📸 Preview
 
-![Rich CLI Preview](assets/Stega.png)
+
+### A. File Panel
+
+![Rich CLI Preview](assets/File-Panel.png)
+
+### 1. File Encryption
+
+![Rich CLI Preview](assets/File-Encrypt.png)
+
+### 2. File Decryption
+
+![Rich CLI Preview](assets/File-Decrypt.png)
+
+### B. Image Panel (Image Steganography)
+
+![Rich CLI Preview](assets/Img-Panel.png)
+
+### 1. Image Encryption
+
+![Rich CLI Preview](assets/Img-Encrypt.png)
+
+### 2. Image Decryption
+
+![Rich CLI Preview](assets/Img-Decrypt.png)
+
+### C. Audio Panel (Audio Steganography)
+
+![Rich CLI Preview](assets/Aud-Panel.png)
+
+### 1. Audio Encryption
+
+![Rich CLI Preview](assets/Aud-Encrypt.png)
+
+### 2. Audio Decryption
+
+![Rich CLI Preview](assets/Aud-Decrypt.png)
 
 ---
 
